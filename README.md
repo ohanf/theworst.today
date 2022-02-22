@@ -1,4 +1,4 @@
-# both
-![The Worst](/assets/images/both.png)
+# quicksilver
+![The Worst](/assets/images/quicksilver.png)
 [Why](why.md)
 
